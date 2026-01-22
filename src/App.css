@@ -1,0 +1,17 @@
+.formulas {
+  max-width: 600px;
+  font-family: Arial, sans-serif;
+}
+
+.formula {
+  font-weight: 500;
+  margin-left: 6px;
+}
+
+ol {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
